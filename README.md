@@ -5,7 +5,7 @@ Starportal is a project developed using Next.js and other modern web technologie
 Getting Started
 To get a local copy of the project up and running, follow these steps:
 
-Clone the repository:
+Clone the repository: https://github.com/Kandulanaveennaidu/Starportal-_Frontend_Assignment
 
 bash
 Copy code
